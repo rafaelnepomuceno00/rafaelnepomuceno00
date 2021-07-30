@@ -14,4 +14,4 @@
   
 
 </div>
- https://profile-counter.glitch.me/rafaelnepomuceno00/count.svg
+ ![Visitor Count](https://profile-counter.glitch.me/rafaelnepomuceno00/count.svg)
