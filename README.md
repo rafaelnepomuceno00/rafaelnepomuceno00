@@ -22,6 +22,6 @@
 </div>
  <hr/>
  <div align="center" style="display: inline_block"><br>
- <img align="center" alt="Rafael-counter" height="30" width="100" src="https://profile-counter.glitch.me/rafaelnepomuceno00/count.svg">
+ <img align="center" alt="Rafael-counter" height="50" width="200" src="https://profile-counter.glitch.me/rafaelnepomuceno00/count.svg">
   <hr/>
 </div>
