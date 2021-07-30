@@ -19,7 +19,6 @@
 </div>
  <hr/>
  <div align="center" style="display: inline_block"><br>
-  <hr/>
  <img align="center" alt="Rafael-Flutter" height="30" width="100" src="https://badges.pufler.dev/visits/rafaelnepomuceno00/rafaelnepomuceno00">
   <hr/>
 </div>
