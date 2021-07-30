@@ -10,7 +10,7 @@
   <img align="center" alt="Rafael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafael-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
   <img align="center" alt="Rafael-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/HTML/HTML-original.svg">
+  <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/HTML/html5-original.svg">
   <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafael-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
