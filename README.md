@@ -11,7 +11,7 @@
   <img align="center" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafael-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
  <img align="center" alt="Rafael-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Rafael-Flutter" height="30" width="40" src="https://badges.pufler.dev/visits/rafaelnepomuceno00/rafaelnepomuceno00">
+  <img align="center" alt="Rafael-Flutter" height="30" width="100" src="https://badges.pufler.dev/visits/rafaelnepomuceno00/rafaelnepomuceno00">
 
 </div>
  
