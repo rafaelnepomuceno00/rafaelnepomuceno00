@@ -14,4 +14,5 @@
   
 
 </div>
- ![Visitor Count](https://profile-counter.glitch.me/rafaelnepomuceno00/count.svg)
+ [![Visits Badge](https://badges.pufler.dev/visits/rafaelnepomuceno00/rafaelnepomuceno00)]
+ [![Visitor Count](https://profile-counter.glitch.me/rafaelnepomuceno00/count.svg)]
