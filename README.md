@@ -1,12 +1,3 @@
-
-<a href="https://github.com/rafaelnepomuceno00/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelnepomuceno00&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/rafaelnepomuceno00/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnepomuceno00&layout=compact&theme=dracula" />
-</a>
-
-## Oiii! Eu sou a Rafaella Ballerini 
  <div>
   <a href="https://github.com/rafaelnepomuceno00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnepomuceno00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
