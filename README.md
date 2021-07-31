@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnepomuceno00&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <hr/>
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
   <img align="center" alt="Rafael-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafael-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafael-Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -14,14 +14,14 @@
   <img align="center" alt="Rafael-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafael-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafael-Flutter" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Rafael-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Rafael-Dart" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 
- <br/>
+ 
   
 
 </div>
  <hr/>
- <div align="center" style="display: inline_block"><br>
+ <div align="center" style="display: inline_block">
  <img align="center" alt="Rafael-counter" height="50" width="200" src="https://profile-counter.glitch.me/rafaelnepomuceno00/count.svg">
   <hr/>
 </div>
